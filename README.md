@@ -2,7 +2,9 @@
 
 ### https://www.theodinproject.com/courses/ruby-on-rails/lessons/active-record-queries#querying-basics
 ##### https://guides.rubyonrails.org/active_record_querying.html
-1. Retrieve : Find / Take / ..
+1. Retrieving objects from the database
+    - return a collection instance of relation model : where / group / ...
+    - return a single instance of the model : find / first / ...
 2. Conditions : Array / Hash
 3. Order
 4. Select
@@ -25,6 +27,7 @@
 - many?
 
 ### https://www.theodinproject.com/courses/ruby-on-rails/lessons/active-record-associations
+##### https://guides.rubyonrails.org/association_basics.html
 1. Why associations? : The associations between two models make common operations simpler and easier in code.
 2. Types of associations : belongs_to / has_one / has_many / has_many :through / has_one :through / has_and_belongs_to_many
 3. Tips, Tricks, and Warnings
