@@ -34,9 +34,25 @@
 4. Details association reference
 
 ### [associations](https://www.theodinproject.com/courses/ruby-on-rails/lessons/associations)
+
 ### [active-record-callbacks](https://www.theodinproject.com/courses/ruby-on-rails/lessons/active-record-callbacks)
+##### https://guides.rubyonrails.org/active_record_callbacks.html#callback-registration
+1. The Object Life Cycle
 Callbacks allow you to trigger logic before or after an alteration of an object's state.
-1. https://guides.rubyonrails.org/active_record_callbacks.html#callback-registration
-2. https://samuelmullen.com/2012/01/guidelines-for-using-activerecord-callbacks/
-https://en.wikibooks.org/wiki/Ruby_on_Rails/ActiveRecord/Callbacks
-https://www.theodinproject.com/courses/ruby-on-rails/lessons/active-record-callbacks#using-callbacks
+2. Callbacks Overview
+3. Available Callbacks
+4. Running Callbacks
+5. Skipping Callbacks
+6. Halting Execution
+7. Rational Callbacks
+8. Conditional Callbacks
+9. Callback Classes
+10. Transaction Callbacks
+
+##### https://samuelmullen.com/2012/01/guidelines-for-using-activerecord-callbacks/
+1. Use callbacks only if they can be run every time and in every circumstance they are triggered.
+2. Never create callbacks which exceed the model’s responsibility.
+3. If you have to stub callbacks during testing, you are violating one of the previous rules of thumb.
++ Additional : [Deorator](https://samuelmullen.com/2011/12/sending-notifications-using-decorators-instead-of-callbacks/)
+
+##### [Wiki callbacks](https://en.wikibooks.org/wiki/Ruby_on_Rails/ActiveRecord/Callbacks)
