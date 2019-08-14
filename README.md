@@ -60,10 +60,10 @@ Callbacks allow you to trigger logic before or after an alteration of an object'
 
 ### [Advanced forms](https://www.theodinproject.com/courses/ruby-on-rails/lessons/advanced-forms)
 + Select tag / Nested forms / Deleting nested form object / Many-to-Many relationships / Simple form
-##### [Action View Form Helpers](https://guides.rubyonrails.org/form_helpers.html#option-tags-from-a-collection-of-arbitrary-objects)
-3. - progress
-5.
-7.
+##### [Form helpers](https://guides.rubyonrails.org/form_helpers.html)
+3. (3) Option Tags from a Collection of Arbitrary Objects ?
+5. Uploading Files ?
+7. Understanding Parameter Naming Conventions ?
 + Additional : [Many-to-Many](https://thoughtbot.com/blog/accepts-nested-attributes-for-with-has-many-through) / [Simple Form](https://github.com/plataformatec/simple_form)
 
 + Additional :
