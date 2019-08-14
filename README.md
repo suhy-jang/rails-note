@@ -53,6 +53,27 @@ Callbacks allow you to trigger logic before or after an alteration of an object'
 1. Use callbacks only if they can be run every time and in every circumstance they are triggered.
 2. Never create callbacks which exceed the model’s responsibility.
 3. If you have to stub callbacks during testing, you are violating one of the previous rules of thumb.
-+ Additional : [Deorator](https://samuelmullen.com/2011/12/sending-notifications-using-decorators-instead-of-callbacks/)
++ Additional : [Deorator](https://samuelmullen.com/2011/12/sending-notifications-using-decorators-instead-of-callbacks/) ?
 
 ##### [Wiki callbacks](https://en.wikibooks.org/wiki/Ruby_on_Rails/ActiveRecord/Callbacks)
+
+
+### [Advanced forms](https://www.theodinproject.com/courses/ruby-on-rails/lessons/advanced-forms)
++ Select tag / Nested forms / Deleting nested form object / Many-to-Many relationships / Simple form
+##### [Action View Form Helpers](https://guides.rubyonrails.org/form_helpers.html#option-tags-from-a-collection-of-arbitrary-objects)
+3. - progress
+5.
+7.
++ Additional : [Many-to-Many](https://thoughtbot.com/blog/accepts-nested-attributes-for-with-has-many-through) / [Simple Form](https://github.com/plataformatec/simple_form)
+
++ Additional :
+  * https://api.rubyonrails.org/classes/ActiveRecord/NestedAttributes/ClassMethods.html
+  * https://stackoverflow.com/questions/15648396/rails-how-to-manage-nested-attributes-without-using-accepts-nested-attributes?rq=1
+  * https://stackoverflow.com/questions/941594/understanding-the-rails-authenticity-token
+  * http://daniel.fone.net.nz/blog/2013/05/20/a-better-way-to-manage-the-rails-secret-token/
+
+##### [Nested Form](https://www.createdbypete.com/working-with-nested-forms-and-a-many-to-many-association-in-rails-4/)
+
+### [Conclusion](https://www.theodinproject.com/courses/ruby-on-rails/lessons/conclusion-ruby-on-rails)
+##### [Rails Command Line](https://guides.rubyonrails.org/command_line.html)
+##### [Caching with rails](https://guides.rubyonrails.org/caching_with_rails.html)
