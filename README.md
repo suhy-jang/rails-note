@@ -81,7 +81,13 @@ Callbacks allow you to trigger logic before or after an alteration of an object'
 ### API
 ##### [own-api](https://www.theodinproject.com/courses/ruby-on-rails/lessons/apis-and-building-your-own)
 ##### [external-api](https://www.theodinproject.com/courses/ruby-on-rails/lessons/working-with-external-apis)
-- [OAuth 2.0 overview](http://tutorials.jenkov.com/oauth2/overview.html)
-- [OAuth 2.0 in depth](https://code.tutsplus.com/articles/oauth-20-the-good-the-bad-the-ugly--net-33216)
-- [Omniauth github](https://github.com/omniauth/omniauth)
-- [List of stretegies](https://github.com/omniauth/omniauth/wiki/List-of-Strategies)
+1. [OAuth 2.0 overview](http://tutorials.jenkov.com/oauth2/overview.html)
+2. [OAuth 2.0 in depth](https://code.tutsplus.com/articles/oauth-20-the-good-the-bad-the-ugly--net-33216)
+3. [Omniauth github](https://github.com/omniauth/omniauth)
+4. [List of stretegies](https://github.com/omniauth/omniauth/wiki/List-of-Strategies)
+* [todo1](http://railscasts.com/episodes/241-simple-omniauth-revised)
+* [todo2](https://github.com/omniauth/omniauth)
+* todo3 : read api documents for twitter or facebook or google map etc
+* [additional1](https://stackoverflow.com/questions/6228870/interfacing-with-a-third-party-api-in-rails-opeing-urls-and-parsing-xml-json)
+* [additional2](https://www.youtube.com/watch?v=Af5HDgvGuXk)
+##### [working with external-api](https://www.theodinproject.com/courses/ruby-on-rails/lessons/working-with-external-apis)
