@@ -77,3 +77,11 @@ Callbacks allow you to trigger logic before or after an alteration of an object'
 ### [Conclusion](https://www.theodinproject.com/courses/ruby-on-rails/lessons/conclusion-ruby-on-rails)
 ##### [Rails Command Line](https://guides.rubyonrails.org/command_line.html)
 ##### [Caching with rails](https://guides.rubyonrails.org/caching_with_rails.html)
+
+### API
+##### [own-api](https://www.theodinproject.com/courses/ruby-on-rails/lessons/apis-and-building-your-own)
+##### [external-api](https://www.theodinproject.com/courses/ruby-on-rails/lessons/working-with-external-apis)
+- [OAuth 2.0 overview](http://tutorials.jenkov.com/oauth2/overview.html)
+- [OAuth 2.0 in depth](https://code.tutsplus.com/articles/oauth-20-the-good-the-bad-the-ugly--net-33216)
+- [Omniauth github](https://github.com/omniauth/omniauth)
+- [List of stretegies](https://github.com/omniauth/omniauth/wiki/List-of-Strategies)
